@@ -1,3 +1,9 @@
+#|
+  Fernando Garavito 18071
+  Javier Cospin 18099
+  Kristen Brandt 171482
+|#
+
 (define suma (lambda (a b) (+ a b)))
 (define resta (lambda (a b) (- a b)))
 (define multiplicacion (lambda (a b) (* a b)))
